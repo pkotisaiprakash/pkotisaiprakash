@@ -87,10 +87,10 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-kotisaiprakash7@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/perugu-koti-sai-prakash-449a2b2a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
