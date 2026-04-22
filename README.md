@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech CSE (3rd Year)
+- 🎓 B.Tech CSE Graduate
 - 💻 MERN Stack Developer
 - 🧠 Learning **System Design + Scalable Apps**
 - 📱 Exploring **React Native**
